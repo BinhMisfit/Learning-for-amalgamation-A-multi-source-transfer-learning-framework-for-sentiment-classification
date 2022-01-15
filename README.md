@@ -39,6 +39,7 @@ Contact Email: ngtbinh@hcmus.edu.vn (Dr. Binh Nguyen)
 
 Please cite our journal paper when using our codes and datasets for further purposes.
 
+```
 @article{NGUYEN20221,
 title = {Learning for amalgamation: A multi-source transfer learning framework for sentiment classification},
 journal = {Information Sciences},
@@ -52,3 +53,4 @@ author = {Cuong V. Nguyen and Khiem H. Le and Anh M. Tran and Quang H. Pham and 
 keywords = {Sentiment classification, Transfer learning, LIFA, Mixture of experts, Low-resource NLP},
 abstract = {Transfer learning plays an essential role in Deep Learning, which can remarkably improve the performance of the target domain, whose training data is not sufficient. Our work explores beyond the common practice of transfer learning with a single pre-trained model. We focus on the task of Vietnamese sentiment classification and propose LIFA, a framework to learn a unified embedding from several pre-trained models. We further propose two more LIFA variants that encourage the pre-trained models to either cooperate or compete with one another. Studying these variants sheds light on the success of LIFA by showing that sharing knowledge among the models is more beneficial for transfer learning. Moreover, we construct the AISIA-VN-Review-F dataset, the first large-scale Vietnamese sentiment classification database. We conduct extensive experiments on the AISIA-VN-Review-F and existing benchmarks to demonstrate the efficacy of LIFA compared to other techniques. To contribute to the Vietnamese NLP research, we publish our source code and datasets to the research community upon acceptance.}
 }
+```
